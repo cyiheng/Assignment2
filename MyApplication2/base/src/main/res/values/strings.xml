@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyGymApp</string>
+    <string name="app_signin">Sign in</string>
+    <string name="app_mail">Mail address</string>
+    <string name="app_pass">Password</string>
+    <string name="app_ok">Go</string>
+    <string name="app_signup">Sign up</string>
+</resources>
